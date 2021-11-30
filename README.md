@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mks</h1>
-<h3 align="center">Passionate in cryptocurrency development, DAOs, and Defi</h3>
+<h3 align="center">Passionate in blockchain development, DAOs, and DeFi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mks9467&label=Profile%20views&color=0e75b6&style=flat" alt="mks9467" /> </p>
 
