@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mks9467" alt="mks9467" /></a> </p>
 
-- 🔭 I’m currently working on [Xenon](https://github.com/XenonFinance)
+- 🔭 I’m currently working on [Xenon Finance](https://github.com/XenonFinance)
 
 - 🌱 I’m currently learning **Solidity and web3**
 
