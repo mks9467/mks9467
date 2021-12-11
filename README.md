@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mks9467](https://github.com/mks9467)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Crypto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
